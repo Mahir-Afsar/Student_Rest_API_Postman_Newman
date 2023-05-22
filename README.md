@@ -5,11 +5,11 @@
 - Open with Postman / Command Shell
 - Run Command:  
 ```console 
-newman run StudentDetails.postman_collection.json -e StudentDetails.postman_environment.json 
+newman run Student-Details-Project.postman_collection.json -e Student-Details-Project.postman_environment.json
 ```
 - Run Command for Report: 
 ```console 
-newman run StudentDetails.postman_collection.json -e StudentDetails.postman_environment.json -r cli,htmlextra
+newman run Student-Details-Project.postman_collection.json -e Student-Details-Project.postman_environment.json -r cli,htmlextra
 ```
 
 ## Technology used:

@@ -25,7 +25,7 @@ newman run Student-Details-Project.postman_collection.json -e Student-Details-Pr
 ## Newman and Report Installation Process:
 - Newman Install Command:
 ```console
-npm install -g newman-reporter-htmlextra
+npm install -g newman
 ```
 - Newman Html Report Install Command:
 ```console

@@ -1,4 +1,4 @@
-# Student_Rest_API_Newman
+# Student_Rest_API_Postman_Newman
 
 ## How to run this project
 - Clone this project
